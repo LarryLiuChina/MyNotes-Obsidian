@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "cd1a76bb27f80ea6",
+    "id": "7b68535dc7f4133e",
     "type": "split",
     "children": [
       {
-        "id": "3d1600f9f576c59e",
+        "id": "2ae4a32a340f736d",
         "type": "tabs",
         "children": [
           {
-            "id": "951a0d9d6ceaabbc",
+            "id": "fa106692bb4b470a",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -21,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "7f7ce929410ca813",
+    "id": "73a6f4066ac954d8",
     "type": "split",
     "children": [
       {
-        "id": "4c153d838f05b298",
+        "id": "2d135220555bf5b3",
         "type": "tabs",
         "children": [
           {
-            "id": "5cdd8484fc743bfa",
+            "id": "8aad037852fef3b0",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,7 +39,7 @@
             }
           },
           {
-            "id": "6a724b30d3f6cc5d",
+            "id": "7f402d114e541e81",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -54,7 +54,7 @@
             }
           },
           {
-            "id": "ea0472958b432015",
+            "id": "0fd48ebe8b172fb4",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -68,15 +68,15 @@
     "width": 300
   },
   "right": {
-    "id": "bbf8ccc3a7a46629",
+    "id": "fa582e04b90d8fe5",
     "type": "split",
     "children": [
       {
-        "id": "aa32d493a93dad05",
+        "id": "96b427da1873a71d",
         "type": "tabs",
         "children": [
           {
-            "id": "5870c4c48c349e0e",
+            "id": "dd2919c056c28b49",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -92,7 +92,7 @@
             }
           },
           {
-            "id": "158729e847418bf5",
+            "id": "dada072b368442ce",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -103,7 +103,7 @@
             }
           },
           {
-            "id": "4240778cb35b641c",
+            "id": "6bedd1b912ee4152",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -114,7 +114,7 @@
             }
           },
           {
-            "id": "aeec08e7cf8793c0",
+            "id": "311c0f94276f4a0f",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -138,6 +138,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "951a0d9d6ceaabbc",
-  "lastOpenFiles": []
+  "active": "8aad037852fef3b0",
+  "lastOpenFiles": [
+    "2023-05-20.md",
+    "1 Log/思考力.md",
+    "1 Log"
+  ]
 }
